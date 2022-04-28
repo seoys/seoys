@@ -16,10 +16,13 @@
 | Name | Site |
 | ------ | ------ |
 | EQL | https://ch.eqlstore.com |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| 29CM | https://www.29cm.co.kr |
+| 굿네이버스 | https://www.goodneighbors.kr |
+| 스타벅스 | https://www.starbucks.co.kr |
+| 신도리코 | https://www.sindoh.com/ |
+| LG U+ | https://www.uplus.co.kr/ |
+| 자유투어 | https://jautour.clickis.kr/ |
+| 국가보훈처 | https://www.mpva.go.kr/ |
+| 기타 | 100여개... |
 
 ![seoys's github stats](https://github-readme-stats.vercel.app/api?username=seoys&show_icons=true)
