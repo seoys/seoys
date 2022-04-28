@@ -11,14 +11,11 @@
 
 
 
-## Plugins
+## Projects
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
-| Plugin | README |
+| Name | Site |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| EQL | [dill]: <https://github.com/joemccann/dillinger> |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
