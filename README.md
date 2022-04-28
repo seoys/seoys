@@ -15,7 +15,7 @@
 
 | Name | Site |
 | ------ | ------ |
-| EQL | [dill](<https://github.com/joemccann/dillinger>) |
+| EQL | https://ch.eqlstore.com |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
