@@ -10,19 +10,4 @@
 |Other          | <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>         |
 
 
-
-## Projects
-
-| Name | Site |
-| ------ | ------ |
-| EQL | https://ch.eqlstore.com |
-| 29CM | https://www.29cm.co.kr |
-| 굿네이버스 | https://www.goodneighbors.kr |
-| 스타벅스 | https://www.starbucks.co.kr |
-| 신도리코 | https://www.sindoh.com/ |
-| LG U+ | https://www.uplus.co.kr/ |
-| 자유투어 | https://jautour.clickis.kr/ |
-| 국가보훈처 | https://www.mpva.go.kr/ |
-| 기타 | 100여개... |
-
 ![seoys's github stats](https://github-readme-stats.vercel.app/api?username=seoys&show_icons=true)
