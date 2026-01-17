@@ -1,0 +1,17 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # 매일 자정에 자동으로 실행 (UTC 기준)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 수동으로도 실행 가능하게 설정
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # 사용자님의 Medium RSS 피드 주소 (아이디 앞에 @ 확인)
+          feed_list: "https://medium.com/feed/@sosohappy"
