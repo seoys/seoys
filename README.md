@@ -1,9 +1,11 @@
 # Hi there, I'm SEO Y.S 👋
 ### Tech Lead & Full-Stack Architect | 20+ Years of Engineering Excellence
 
-<p align="left">
+[![My GitFut card](https://gitfut.com/seoys.png)](https://gitfut.com/seoys)
+
+<!-- <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=seo.y.s&fontSize=50" />
-</p>
+</p> -->
 
 ## 🚀 Professional Summary
 
