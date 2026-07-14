@@ -1,10 +1,14 @@
 # Hi there, I'm SEO Y.S 👋
 ### Tech Lead & Full-Stack Architect | 20+ Years of Engineering Excellence
 
-[![My GitFut card](https://gitfut.com/seoys.png)](https://gitfut.com/seoys)
+<p align="center">
+  <a href="https://gitfut.com/seoys">
+    <img src="https://gitfut.com/seoys.png" alt="My GitFut card" width="650" />
+  </a>
+</p>
 
-<!-- <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=seo.y.s&fontSize=50" />
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=seo.y.s&fontSize=40" />
 </p> -->
 
 ## 🚀 Professional Summary
@@ -24,7 +28,7 @@ My recent engineering efforts center around building highly responsive, scalable
 ## 🛠 Tech Stack
 
 ### 🟢 Core Expertise
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js_22+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
@@ -49,9 +53,9 @@ If you're building a content platform, a trading system, or anything that demand
 - 💻 **Explore my open-source work:** [GitHub](https://github.com/seoys)
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seoys&show_icons=true&theme=radical&hide_border=true" alt="seoys's github stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoys&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="180" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seoys&show_icons=true&theme=radical&hide_border=true" alt="seoys's github stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoys&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="150" />
 </p>
 
 ---
